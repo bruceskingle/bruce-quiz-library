@@ -1,0 +1,50 @@
+{
+  "quizzes": [
+    {
+      "folder": "crowns-castles-beefeaters",
+      "title": "Crowns, Castles & Beefeaters",
+      "description": "Test what you know about Britain's historic royal palaces, from the Tower of London to Hampton Court and beyond.",
+      "questions": 20,
+      "licence": "CC BY-SA 4.0",
+      "files": [
+        "quiz.md",
+        "images/hampton-court-palace-west-front-richmond-upon-thames-1193127-20230823-0050.jpg",
+        "images/imperial-state-crown.png",
+        "images/tower-of-london-from-the-shard-8515883950.jpg"
+      ]
+    },
+    {
+      "folder": "house-proud-parliament-buildings-quiz",
+      "title": "House Proud: Parliament Buildings Quiz",
+      "questions": 15,
+      "licence": "CC BY-SA 4.0",
+      "files": [
+        "quiz.md",
+        "images/palace-of-westminster-as-seen-from-westminster-bridge.jpg",
+        "images/reichstagsgeb-ude-berlin-mitte-170402-ako.jpg",
+        "images/us-capitol-east-side.jpg"
+      ]
+    },
+    {
+      "folder": "number-10-know-it-all",
+      "title": "Number 10 Know-It-All!",
+      "questions": 10,
+      "licence": "CC BY-SA 4.0",
+      "files": [
+        "quiz.md"
+      ]
+    },
+    {
+      "folder": "thames-bridges-quiz-over-the-river",
+      "title": "Thames Bridges Quiz: Over the River!",
+      "questions": 17,
+      "licence": "CC BY-SA 4.0",
+      "files": [
+        "quiz.md",
+        "images/london-bridge-geograph-org-uk-478726.jpg",
+        "images/millenium-bridge-2015.jpg",
+        "images/tower-bridge-at-dawn.jpg"
+      ]
+    }
+  ]
+}
